@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/LittleNightmare/UsedName.git"
-commit = "9d5d151200d31c5cdb4af8fc9ed2c57cc5742b09"
+commit = "ff3dac48f421082a5419e51062a4b339dd94fa6b"
 owners = [
     "LittleNightmare"
 ]
 project_path = "UsedName"
 changelog = """
-- 修复没有立刻保存的问题
-- 修复潜在的转移数据问题
+- 修复.Net6兼容性问题
 """
