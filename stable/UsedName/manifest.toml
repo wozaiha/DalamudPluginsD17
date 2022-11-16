@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/LittleNightmare/UsedName.git"
+commit = "4eb4883e357db09d9b96e49a50cc8c2fa6885cb6"
+owners = [
+    "LittleNightmare"
+]
+project_path = "UsedName"
+changelog = """
+- 修复.Net6兼容性问题
+"""
