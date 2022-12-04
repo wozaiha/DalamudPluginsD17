@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Helios747/AdaptiveHudPlugin.git"
+commit = "b078d01f2ca05bb069e897659c79136a48d341a8"
+owners = [
+    "Helios747"
+]
+project_path = "AdaptiveHud"
+changelog = "Fix config not being read"

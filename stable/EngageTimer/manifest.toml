@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/xorus/EngageTimer.git"
+commit = "2f57490e7c94ca73e0ad561bc9e2a671d36e0db1"
+owners = ["xorus"]
+changelog = """\
+- Floating Window: the `:` separator in the stopwatch has gone back from their vacation"""

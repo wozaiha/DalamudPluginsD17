@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/KazWolfe/XIVDeck.git"
+commit = "767e9c5c268177d6a5eda0a6237a56e4f8e39c8c"
+owners = [
+    "KazWolfe",
+]
+project_path = "FFXIVPlugin"

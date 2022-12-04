@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/Critical-Impact/InventoryTools.git"
+commit = "11dc0fc"
+owners = [
+    "Critical-Impact",
+]
+project_path = "InventoryTools"
+changelog = "Inventory and configuration saving are now run asynchronously except when the plugin is disposing to stop potential hitches. Fixed an issue with memory sort order parsing not actually being needed when the client is first started and no ITEMODR file exists. "
+version = "1.2.0.11"
