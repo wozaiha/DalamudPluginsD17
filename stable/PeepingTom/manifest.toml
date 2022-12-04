@@ -1,5 +1,5 @@
 [plugin]
-repository = 'https://git.annaclemens.io/ascclemens/PeepingTom.git'
+repository = 'https://git.anna.lgbt/ascclemens/PeepingTom.git'
 commit = '1faa27e558971bcd048c099106b7eac77e82fb5b'
 owners = [ 'ascclemens' ]
 project_path = 'Peeping Tom'
