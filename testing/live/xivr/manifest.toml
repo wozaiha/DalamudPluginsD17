@@ -3,7 +3,7 @@ repository = "https://github.com/Yarukon/xivr-cn.git"
 commit = "fe0c568271c3e0f70294769b6a92f23e522e9afe"
 owners = ["solimproper", "ProjectMimer", "Yarukon", "Bluefissure"]
 project_path = "xivr"
-changelog = ""
+changelog = "Testing for CN client"
 
 [build]
 image = "extended"
