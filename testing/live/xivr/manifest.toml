@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Yarukon/xivr-cn.git"
-commit = "fe0c568271c3e0f70294769b6a92f23e522e9afe"
+commit = "ee0e75251d9ad62f65ee0f9822eba198fe5ac35c"
 owners = ["solimproper", "ProjectMimer", "Yarukon", "Bluefissure"]
 project_path = "xivr"
 changelog = "Testing for CN client"
