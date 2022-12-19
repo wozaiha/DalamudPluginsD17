@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://github.com/xorus/EngageTimer.git"
-commit = "2f57490e7c94ca73e0ad561bc9e2a671d36e0db1"
-owners = ["xorus"]
+repository = "https://github.com/Bluefissure/EngageTimer.git"
+commit = "a8466be2bf230159c680a014780f24d17a8d1ab8"
+owners = ["xorus", "Bluefissure"]
 changelog = """\
 - Floating Window: the `:` separator in the stopwatch has gone back from their vacation"""
