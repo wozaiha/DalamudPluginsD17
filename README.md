@@ -1,6 +1,6 @@
 # DalamudPluginsD17
 
-你好！ 这是 [Final Fantasy XIV 的 Dalamud 插件框架](https://github.com/ottercorp/Dalamud) 的插件库。 此存储库是 [DalamudPlugins](https://github.com/ottercorp/DalamudPlugins) 的继承者并实现了 [DIP17](https://github.com/goatcorp/DIPs/blob/main/text/17-automated- build-and-submit-pipeline.md) 使提交过程更容易和更快。
+你好！ 这是 [Final Fantasy XIV 的 Dalamud 插件框架](https://github.com/ottercorp/Dalamud) 的插件库。 此存储库是 [DalamudPlugins](https://github.com/ottercorp/DalamudPlugins) 的继承者并实现了 [DIP17](https://github.com/goatcorp/DIPs/blob/main/text/17-automated-build-and-submit-pipeline.md) 使提交过程更容易和更快。
 
 ## 发布你的插件
 
