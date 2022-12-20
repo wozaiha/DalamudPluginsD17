@@ -1,10 +1,11 @@
 [plugin]
-repository = "https://github.com/shdwp/xivPartyIcons.git"
-commit = "123270af6fabe336bdefddbe9c32d8d06ca1e820"
+repository = "https://github.com/wozaiha/xivPartyIcons.git"
+commit = "4b8432a88e45aa243f4933e37094b9b27831abc7"
 owners = [
     "shdwp",
     "avafloww",
     "squidmade",
+    "wozaiha",
 ]
 project_path = "PartyIcons"
 changelog = """
