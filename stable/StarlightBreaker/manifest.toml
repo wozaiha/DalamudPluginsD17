@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Loskh/StarlightBreaker.git"
+commit = "bb25702c40545dc0e6c8b96a755c19942785ae75"
+owners = [
+    "Loskh",
+]
+project_path = "StarlightBreaker.Dalamud"
+changelog = "Update for CN 6.2"
