@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Yarukon/MarketBoardPlugin.git"
-commit = "800eb89ded4db70ed1a249358b4467dbe02034ec"
+commit = "81120204e237238b7ec87f9fd40cd7ed1455e1f9"
 owners = ["fmauNeko", "Yarukon"]
 project_path = "MarketBoardPlugin"
 changelog = "- Added \"HQ Only\" setting in \"Advanced Search\"\n- Added hideable Ko-Fi button\n- Fix \"Gil Icon Shown\" setting not being restored"
