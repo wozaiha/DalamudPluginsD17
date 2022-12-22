@@ -3,5 +3,6 @@ repository = "https://github.com/LittleNightmare/PrefPro.git"
 commit = "386d26f85e0a5d7d757aef621fb54e81a5d7a2f5"
 owners = [
     "lmcintyre",
+    "LittleNightmare",
 ]
 project_path = "PrefPro"
