@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/LittleNightmare/UsedName.git"
-commit = "4eb4883e357db09d9b96e49a50cc8c2fa6885cb6"
+commit = "8309a9c94b69eab4911be29dc8016a3ec6e86955"
 owners = [
     "LittleNightmare"
 ]
 project_path = "UsedName"
 changelog = """
-- 修复.Net6兼容性问题
+- 修复PlayerEntry结构改变，导致网络包失效问题。现在可以正常自动更新数据
 """
