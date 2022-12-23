@@ -1,9 +1,8 @@
 [plugin]
-repository = 'https://git.anna.lgbt/ascclemens/OrangeGuidanceTomestone.git'
-commit = '53fcde6a1342c6c381d6ffd73f60f9af69876307'
-owners = [ 'ascclemens' ]
+repository = 'https://github.com/MapleRecall/OrangeGuidanceTomestone.git'
+commit = 'd1cf8a4fdb7ac7877a5a13d0827631798b082ad8'
+owners = [ 'ascclemens', 'MapleRecall' ]
 project_path = 'client'
 changelog = """\
-- Fixed an issue where players without Stormblood would crash in some
-  situations.
+- CN for FFXIV Pack
 """
