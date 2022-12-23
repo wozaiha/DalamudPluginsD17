@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Loskh/StarlightBreaker.git"
-commit = "39d62cdbd87ae293cbbab97dbbcf1038c449bdd3"
+commit = "3137eadb239f4c62ca257672dfeac84237634e0c"
 owners = [
     "Loskh",
 ]
 project_path = "StarlightBreaker.Dalamud"
-changelog = "Update for CN 6.2"
+changelog = "修复特殊显示屏蔽词功能"
