@@ -1,6 +1,6 @@
 [plugin]
-repository = "git@github.com:tssailzz8/AutoMammet.git"
+repository = "https://github.com/tssailzz8/AutoMammet.git"
 commit = "44e327e5130725beae5c16948278a8e9f5aa86a0"
-owners = ["Rietty"]
+owners = ["Rietty", "tssailzz8"]
 project_path = "/AutoMammet"
 changelog = "Updated some wording to be more clear where information is exported to."
