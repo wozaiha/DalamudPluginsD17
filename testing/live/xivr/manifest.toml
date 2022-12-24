@@ -1,9 +1,9 @@
 [plugin]
-repository = "https://github.com/Yarukon/xivr-cn.git"
-commit = "ee0e75251d9ad62f65ee0f9822eba198fe5ac35c"
-owners = ["solimproper", "ProjectMimer", "Yarukon", "Bluefissure"]
+repository = "https://github.com/ProjectMimer/xivr.git"
+commit = "66ed8aa5caebcb0499112062c8dfc2ecfee4cf3c"
+owners = ["solimproper", "ProjectMimer"]
 project_path = "xivr"
-changelog = "Testing for CN client"
+changelog = ""
 
 [build]
 image = "extended"
