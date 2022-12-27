@@ -1,11 +1,13 @@
 [plugin]
-repository = "https://github.com/Infiziert90/BetterPlaytime.git"
-commit = "158b9098fbb48e5da60f470e07168f7eec015d2d"
+repository = "https://github.com/LittleNightmare/BetterPlaytime.git"
+commit = "84e71baf6a7e6053b6a37f83733446a51176ed2f"
 owners = [
     "Infiziert90",
+    "LittleNightmare",
 ]
 project_path = "BetterPlaytime"
 changelog = """
++ 兼容国服游戏时间格式
 + Prevent round up of hours and days
 + Add config tab for character deletion
 + Extend server bar integration
