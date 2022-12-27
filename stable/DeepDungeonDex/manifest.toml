@@ -1,7 +1,8 @@
 [plugin]
 repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
-owners = [ "wolfcomp" ]
-project_path = ""
-commit = "87c2dfd25d59a4a18ed266c5c1f590e5c06c8153"
-changelog = "### 1.9.2 (2022-11-03)\n\n\n### Bug Fixes\n\n* dont break existing installs when developing new version (17d0069)"
-version = "1.9.2"
+owners = [ "wolfcomp" , "wozaiha" ]
+project_path = "DeepDungeonDex"
+commit = "542b8330a64c1589335cddbc74700a51fb2ca9b0"
+changelog = "## 2.1.0 (2022-12-16)\n\n\n### Features\n\n* add unknown status for all weakness types (4a96a40)\n\n\n### Bug Fixes\n\n* do some additional disposes for windows (f807c9e)"
+version = "2.1.0"
+
