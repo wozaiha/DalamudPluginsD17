@@ -2,5 +2,5 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "17dfe1494f33f1903fe628a630a5848b91edd1d8"
-changelog = "fix: loot results window sizing hid parts of text"
+commit = "6bc60606e3ac0b63b691f5517c5f6004d9ceac7c"
+changelog = "* fix: shop entries with multiple items (PLD weapons for example)"

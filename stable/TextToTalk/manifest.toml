@@ -1,6 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "0e931d9dc32077f09e8f327d0f76b6f30999ecb7"
+commit = "2a7623640bade543888886e71302f2e764ebdf69"
 project_path = "src"
 owners = ["karashiiro"]
-changelog = "Fixes system voice list on Windows."
+changelog = """\
+- Fixes "skip own messages" breaking all TTS besides your own, regardless of if it was checked or not
+"""

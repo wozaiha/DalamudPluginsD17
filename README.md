@@ -12,6 +12,30 @@
    - 如果您还没有使用 `$(DalamudLibPath)`，请参阅 <https://github.com/goatcorp/SamplePlugin/blob/master/SamplePlugin/SamplePlugin.csproj#L29-L63>
 - 在 Release 中构建你的插件，提交你的 `.csproj` + 新生成的 lock 文件
 
+### 检查标准
+
+当插件检查组检查你的插件时，他们将检查以下内容。
+
+- 它是否符合由小组的多个成员商定的[我们的准则](https://ottercorp.github.io/faq/development#q-%E6%88%91%E5%8F%AF%E4%BB%A5%E5%9C%A8%E6%88%91%E7%9A%84%E6%8F%92%E4%BB%B6%E4%B8%AD%E5%81%9A%E4%BB%80%E4%B9%88)？
+- 它是否具包含战斗相关功能？如果有，它们是否纯粹是信息性的，并且只显示玩家通常会知道的信息？
+- 它是否通过了非正式的代码审查？
+- 它是否安装得很干净？
+- 配置窗口（如果有的话）的行为是否正确？
+- 插件的基本功能是否正常（如果可以轻松测试）？
+- 它没有明显的技术问题吗？
+- 它的JSON格式是否正确？(我们希望[在未来使之成为不必要的](https://github.com/goatcorp/DalamudPackager/issues/8))
+- 如果它是一个新的插件，它是否在测试频道而不是稳定频道？如果它是一个简单的插件，或者你已经单独测试过了，你可能可以跳过测试阶段 - 请在你的PR中写上一些细节，或者联系我们!
+- 它是否符合[技术标准](#技术标准)？
+
+这些标准是为了防止用户出现问题。我们很乐意与你合作，可以在讨论区联系。
+
+### 技术标准
+
+在这里提交你的插件之前，你应该做一些技术性的工作。它们会使你的插件使用起来更顺手。
+
+- 你的插件必须有一个`icon.png`，在`images/`中不大于512x512，不小于64x64。
+- 对于普通的ImGui窗口，如设置和实用窗口，你应该使用[Dalamud Windowing API](https://goatcorp.github.io/Dalamud/api/Dalamud.Interface.Windowing.html)。它增强了窗口的一些很好的功能，比如按顺序整合到本地UI。
+
 ### 提交
 
 - 分叉此存储库，或使用 GitHub 网络编辑器（在存储库中按 `.`，或按现有清单上的 ✏ 图标）
@@ -39,7 +63,7 @@
 
 ## 在 PR 中重建
 
-如果你想触发你的 PR 的重建，只需发表一条内容为 `@aonyx rebuild` 的评论。
+如果你想触发你的 PR 的重建，只需发表一条内容为 `@aonyxbot rebuild` 的评论。
 
 ---
 
