@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Annullare/ffxiv-characterstatus-refined.git"
-commit = "ce935b540d8f0c4c0c45e1aab17aa1e2daa34542"
+commit = "03d47f68432f1c22d95a4fce7daca809d474fd4c"
 owners = [
     "Kouzukii",
     "Annullare",
