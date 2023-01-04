@@ -71,7 +71,6 @@ jobs:
         DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         EXTENDED_IMAGE_LINK: ${{ secrets.EXTENDED_IMAGE_LINK }}
         XLWEB_KEY: ${{ secrets.XLWEB_KEY }}
-        EXTENDED_IMAGE_LINK: ${{ secrets.EXTENDED_IMAGE_LINK }}
         GITHUB_REPOSITORY: ${{ github.repository }}
         PR_ACTOR: ${{ github.event.client_payload.actor }}
         GITHUB_PR_NUM: ${{ github.event.client_payload.prnum }}
