@@ -1,5 +1,5 @@
 [plugin]
-repository = 'https://git.anna.lgbt/ascclemens/ExtraChat.git'
+repository = 'https://git.annaclemens.io/ascclemens/ExtraChat.git'
 commit = 'ce73a1837491543c13a965d56070d8c03b81c825'
 owners = [ 'ascclemens' ]
 project_path = 'client'
