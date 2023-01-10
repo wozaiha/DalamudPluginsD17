@@ -1,9 +1,10 @@
 [plugin]
-repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "7437ac11d9d34972de774902f8f376d10863a312"
+repository = "https://github.com/NukoOoOoOoO/ItemVendorLocation.git"
+commit = "55bd928a4733cf74683acfde97f5324718af94bd"
 owners = [
     "electr0sheep",
+    "NukoOoOoOoO",
 ]
 project_path = "ItemVendorLocation"
-changelog = "- Fix bug I introduced for official release *facepalm* where nothing has a location"
-version = "1.0.0.1"
+changelog = "适配国服(移除Garland Tools的依赖)"
+version = "1.0.0.3"
