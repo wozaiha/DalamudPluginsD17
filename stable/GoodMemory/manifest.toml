@@ -3,7 +3,7 @@ repository = "https://github.com/NukoOoOoOoO/GoodMemoryCN.git"
 commit = "0709589862ad8dadbd3d204f5afec875b405973e"
 owners = [
     "ascclemens",
-    "VergilGao"
+    "VergilGao",
     "NukoOoOoOoO",
 ]
 project_path = "GoodMemory"
