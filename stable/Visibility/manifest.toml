@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/wozaiha/VisibilityPlugin.git"
-commit = "4a7dafdd139383fb8b5e51557bcac651326b825f"
+commit = "9e96e47d3d0c5eb11c32e70982c7e4b5d25afde3"
 owners = ["SheepGoMeh","wozaiha"]
 project_path = "Visibility"
 changelog = "Vis刷新BUG修正."
