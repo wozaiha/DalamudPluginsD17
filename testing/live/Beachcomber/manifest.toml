@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/k99k5/IslandWorkshopSolver.git"
-commit = "c60099bc6c643ca4c2f1d5048425ae08596cc021"
+commit = "7f3a22ba41fe67240b7f289feae26cea32f396a7"
 owners = [
     "rosella500",
     "k99k5"
