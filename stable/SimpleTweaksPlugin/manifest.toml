@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/ottercorp/SimpleTweaksPlugin.git"
-commit = "39f9565b7e48981ec290a7b5cdf26361fcfdb710"
+commit = "fc04dfa4e2869171b970cff305486104d0cc25ce"
 owners = [
     "Caraxi",
     "wozaiha",
