@@ -12,7 +12,7 @@ owners = [
     "LittleNightmare"
 ]
 # The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
-changelog = """
--.NET 6 update again and again
--解决路径问题
-"""" 
+changelog =  '''
+- .NET 6 update again and again
+- 解决路径问题
+'''
