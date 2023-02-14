@@ -1,10 +1,11 @@
 [plugin]
-repository = "https://github.com/PunishedPineapple/Distance.git"
-commit = "c36717e7284821fbb54043377fe9915f3e79f789"
+repository = "https://github.com/MapleRecall/Distance.git"
+commit = "6e62896c1dee8433301b2f9aa922af4b7f871340"
 owners = [
     "PunishedPineapple",
+    "MapleRecall"
 ]
 project_path = "Distance"
 changelog = '''
-- Reenabled namplate distances following ClientStructs update (thank you Aers!).
+- 修复国服副本开怪距离显示
 '''
