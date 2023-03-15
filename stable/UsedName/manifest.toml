@@ -1,13 +1,11 @@
 [plugin]
 repository = "https://github.com/LittleNightmare/UsedName.git"
-commit = "fbca8cc4f80237066a2b1e81a5731dc1669e7875"
+commit = "026667da47d5352ae6d3dea80af759d500367f3e"
 owners = [
     "LittleNightmare"
 ]
 project_path = "UsedName"
 changelog = """
-- 使用内存而不是网络包
-- 添加一个简单的管理窗口
-- 修复更改Dalamud目录后，无法读取储存的名字问题
-- 添加一个'修改储存路径'的选项
+- 修复当点击`添加昵称`时，打开设置窗口的问题
+- 修复无法编辑搜索后目标的问题
 """
