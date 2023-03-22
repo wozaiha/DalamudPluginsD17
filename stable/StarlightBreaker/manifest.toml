@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Loskh/StarlightBreaker.git"
-commit = "1c58c8a31b4a25b9c5a657bb0c963aa07cd5e9e9"
+commit = "acbf2dd771037074c10b8f4105c36e4f1b840160"
 owners = [
     "Loskh",
 ]
 project_path = "StarlightBreaker.Dalamud"
-changelog = "支持更改染色范围"
+changelog = "支持招募板屏蔽词染色"
