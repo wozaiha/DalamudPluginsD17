@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Loskh/StarlightBreaker.git"
-commit = "acbf2dd771037074c10b8f4105c36e4f1b840160"
+commit = "69889bf946c23b03c29fc69b70873cf47ed05bbe"
 owners = [
     "Loskh",
 ]
 project_path = "StarlightBreaker.Dalamud"
-changelog = "支持招募板屏蔽词染色"
+changelog = "修复折叠窗口导致游戏崩溃问题"
