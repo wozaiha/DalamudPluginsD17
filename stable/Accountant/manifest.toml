@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Yarukon/Accountant.git"
-commit = "421b3a7876ad0bd0505aa1996bd13429fd401006"
+commit = "76071e8e967bbb46470051414c9b6c8cfe225a20"
 owners = [
     "Ottermandias",
     "Yarukon"
