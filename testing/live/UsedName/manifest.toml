@@ -1,11 +1,13 @@
 [plugin]
 repository = "https://github.com/LittleNightmare/UsedName.git"
-commit = "b940a5960fc50d4c3e1ef178dab2f979b1c879be"
+commit = "05080f557741db7be536abf35ec88577d859711a"
 owners = [
     "LittleNightmare"
 ]
 project_path = "UsedName"
 changelog = """
-- 使用内存而不是网络包
-- 添加一个简单的管理窗口
+- 非游戏好友名单中的玩家具备更新的能力
+- 添加一个临时订阅列表以将非关联玩家追加到插件的名单中
+- 取消"玩家搜索"更新的功能
+- 添加从部队成员更新的功能
 """
