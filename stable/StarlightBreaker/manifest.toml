@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Loskh/StarlightBreaker.git"
+commit = "69889bf946c23b03c29fc69b70873cf47ed05bbe"
+owners = [
+    "Loskh",
+]
+project_path = "StarlightBreaker.Dalamud"
+changelog = "修复折叠窗口导致游戏崩溃问题"

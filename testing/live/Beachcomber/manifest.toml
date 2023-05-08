@@ -2,7 +2,8 @@
 repository = "https://github.com/rosella500/IslandWorkshopSolver.git"
 commit = "8bf6522dee26b899394790a2d22b7ff900f51241"
 owners = [
-    "rosella500"
+    "rosella500",
+    "k99k5"
 ]
 project_path = "Beachcomber"
 changelog = "Fix groove being set improperly for future cycles when it's inputted manually"
