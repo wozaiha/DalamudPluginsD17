@@ -1,5 +1,8 @@
 [plugin]
 repository = "https://github.com/Styr1x/Browsingway.git"
-commit = "dbe5d81345367e2a5fefa9393f802aa72fcf4c21"
+commit = "5de34a438900df05d8aed48655868847d47ff54d"
 owners = ["Styr1x"]
 project_path = "Browsingway"
+changelog = """\
+- Update Chromium to 111.0.5563.148
+"""

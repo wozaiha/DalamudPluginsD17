@@ -1,13 +1,13 @@
 [plugin]
 repository = "https://github.com/LittleNightmare/UsedName.git"
-commit = "05080f557741db7be536abf35ec88577d859711a"
+commit = "c85f5ab51c3ad0b6f84d24453ba49b747a197ead"
 owners = [
     "LittleNightmare"
 ]
 project_path = "UsedName"
 changelog = """
-- 非游戏好友名单中的玩家具备更新的能力
-- 添加一个临时订阅列表以将非关联玩家追加到插件的名单中
-- 取消"玩家搜索"更新的功能
-- 添加从部队成员更新的功能
+- player not in FriendList of game could update
+- Add a temporary subscription list to add non friends to the plugin's player list
+- Remove Update from Player Search
+- Add Update from Company Member
 """

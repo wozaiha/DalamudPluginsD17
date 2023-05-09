@@ -1,8 +1,8 @@
 [plugin]
-repository = 'https://github.com/MapleRecall/OrangeGuidanceTomestone.git'
-commit = 'd1cf8a4fdb7ac7877a5a13d0827631798b082ad8'
-owners = [ 'ascclemens', 'MapleRecall' ]
+repository = 'https://git.anna.lgbt/ascclemens/OrangeGuidanceTomestone.git'
+commit = '73fdfd326341edd31189b7b3ccb1faf793ea9fa9'
+owners = [ 'ascclemens' ]
 project_path = 'client'
 changelog = """\
-- CN for FFXIV Pack
+- Housing areas now have messages separated by ward/plot.
 """

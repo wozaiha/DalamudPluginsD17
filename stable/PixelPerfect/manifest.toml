@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/MapleRecall/PixelPerfect.git"
-commit = "cdd79e7d99a29a1540e65521f7acacd36b8a1de4"
-owners = ["Haplo064","MapleRecall"]
-changelog = "Add an option for cutscene. Translate to 中文（简体）"
+repository = "https://github.com/Haplo064/PixelPerfect.git"
+commit = "98c10c5219361ed468882e6e2a124a414ab28b88"
+owners = ["Haplo064"]
+changelog = "Added ring offset rotation, export/import, and sheathed check."
