@@ -1,14 +1,11 @@
 [plugin]
 repository = "https://github.com/LittleNightmare/UsedName.git"
-commit = "928675fb9620a81734cafbbacff431b25dd8ca98"
+commit = "8bd826c059b7a75969cb92481644054ab2200104"
 owners = [
     "LittleNightmare"
 ]
 project_path = "UsedName"
 changelog = """
-- player not in FriendList of game could update
-- Add a temporary subscription list to add non friends to the plugin's player list
-- Remove Update from Player Search
-- Add Update from Company Member
-- Improve text quality
+- 支持api8
+- 推送更新
 """
