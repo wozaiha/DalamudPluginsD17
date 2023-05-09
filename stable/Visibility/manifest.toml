@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/wozaiha/VisibilityPlugin.git"
+commit = "d0d12f7734832021958f43a0a2d2b8114ee28a6b"
+owners = ["SheepGoMeh","wozaiha"]
+project_path = "Visibility"
+changelog = "国服6.3适配."
