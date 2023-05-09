@@ -1,9 +1,13 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.DiscordBridge.git"
-commit = "15e559ba94fcca1276380499c39bb39ff9923ac1"
+commit = "80929aa4804a2b74d0f93fb50561d95e56835bab"
 owners = [
     "reiichi001",
 	"goaaats",
 ]
 project_path = "Dalamud.DiscordBridge"
-changelog = "- Updated Discord library dependencies\n- Switched to using full-width ＠ because Discord started enforcing username requirements on webhooks and @ isn't allowed there.\n- If your bot stopped working in September, please enable Message Intents. See the setup guide for updated steps."
+changelog = """
+Adds the following new commands:
+- `xl!toggleembed` - Switches between Webhooks and classical Embeds
+- `xl!togglesender` - Toggles whether or not to include the sender name in the message content
+"""

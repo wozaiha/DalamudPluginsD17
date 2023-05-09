@@ -1,11 +1,9 @@
 [plugin]
-repository = "https://github.com/Annullare/ffxiv-characterstatus-refined.git"
-commit = "03d47f68432f1c22d95a4fce7daca809d474fd4c"
-owners = [
-    "Kouzukii",
-    "Annullare",
-]
+repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
+commit = "327449621b0390fb6c998111b326edd2117f71f6"
+owners = ["Kouzukii"]
 project_path = "CharacterPanelRefined"
 changelog = """
-Disable the GCD support since it was causing crashes until the cause has been identified.
+Fixed a bug that had items being shown as Ilvl synced when they shouldn't be.
+Fixed Shifu being assumed to be a 13% speed increase instead of 10% at level 70.
 """

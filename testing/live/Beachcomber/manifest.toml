@@ -1,9 +1,9 @@
 [plugin]
-repository = "https://github.com/k99k5/IslandWorkshopSolver.git"
-commit = "7f3a22ba41fe67240b7f289feae26cea32f396a7"
+repository = "https://github.com/rosella500/IslandWorkshopSolver.git"
+commit = "8bf6522dee26b899394790a2d22b7ff900f51241"
 owners = [
     "rosella500",
     "k99k5"
 ]
 project_path = "Beachcomber"
-changelog = "增加汉化"
+changelog = "Fix groove being set improperly for future cycles when it's inputted manually"

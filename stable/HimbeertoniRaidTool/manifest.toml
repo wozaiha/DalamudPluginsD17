@@ -2,5 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "6bc60606e3ac0b63b691f5517c5f6004d9ceac7c"
-changelog = "* fix: shop entries with multiple items (PLD weapons for example)"
+commit = "d943dbd54078a0453e427460af3302ad2e5431ee"
+changelog = """
+Bugfix: General configuration is saved correctly
+Bugfix: Updating gear is working again"""

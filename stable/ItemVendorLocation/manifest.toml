@@ -1,10 +1,12 @@
 [plugin]
-repository = "https://github.com/NukoOoOoOoO/ItemVendorLocation.git"
-commit = "55bd928a4733cf74683acfde97f5324718af94bd"
+repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
+commit = "8e5552f5f3371e619642499d92dd8f61808a6489"
 owners = [
     "electr0sheep",
     "NukoOoOoOoO",
 ]
 project_path = "ItemVendorLocation"
-changelog = "适配国服(移除Garland Tools的依赖)"
-version = "1.0.0.3"
+changelog = """
+- Fixed issue with Filter GC Results option
+"""
+version = "2.2.0.1"
