@@ -1,7 +1,10 @@
 [plugin]
-repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "327449621b0390fb6c998111b326edd2117f71f6"
-owners = ["Kouzukii"]
+repository = "https://github.com/zhouhuichen741/ffxiv-characterstatus-refined.git"
+commit = "8f12062091b5620817c60ea459bef9777c9ac85d"
+owners = [
+    "Kouzukii",
+    "zhouhuichen741",
+]
 project_path = "CharacterPanelRefined"
 changelog = """
 Fixed a bug that had items being shown as Ilvl synced when they shouldn't be.
