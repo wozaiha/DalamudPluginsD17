@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://github.com/shdwp/xivPartyIcons.git"
-commit = "e377e6311ae129efff97e40b862aa3b2f2228701"
+repository = "https://github.com/wozaiha/xivPartyIcons.git"
+commit = "6b1d5a049ab52d4765a40c13d28376a6cc38c2d1"
 owners = [
     "shdwp",
     "avafloww",
