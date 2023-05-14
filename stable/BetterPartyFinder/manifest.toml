@@ -1,5 +1,5 @@
 [plugin]
-repository = 'https://git.annaclemens.io/ascclemens/BetterPartyFinder.git'
-commit = '2f719d2b157c04e24cbec523494f2b674033a14c'
-owners = [ 'ascclemens' ]
-changelog = 'API 7'
+repository = "https://github.com/NiGuangOwO/BetterPartyFinder.git"
+commit = "3d6c619cc5e555cec974cffc83be500a0d5e8a01"
+owners = [ "ascclemens","NiGuangOwO" ]
+changelog = "适配API8，添加汉化"
