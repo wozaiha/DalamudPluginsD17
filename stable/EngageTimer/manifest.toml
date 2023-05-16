@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://github.com/xorus/EngageTimer.git"
-commit = "0c3753f6facd0e2002c0132b314084d7cf3a6ce1"
-owners = ["xorus"]
+repository = "https://github.com/wozaiha/EngageTimer.git"
+commit = "b7bdd29d79baae753b7a62bb96d01ffa3ce5f5bc"
+owners = ["xorus","wozaiha"]
 changelog = """\
 - Fix decimals not being properly hidden with the display threshold option"""
