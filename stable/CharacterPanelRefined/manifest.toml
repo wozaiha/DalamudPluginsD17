@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/zhouhuichen741/ffxiv-characterstatus-refined.git"
-commit = "8f12062091b5620817c60ea459bef9777c9ac85d"
+commit = "945924b565ea3c4e3d04c66c9a0197ddeb2d3879"
 owners = [
     "Kouzukii",
     "zhouhuichen741",
