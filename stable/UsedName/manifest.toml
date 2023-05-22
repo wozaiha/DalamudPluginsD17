@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/LittleNightmare/UsedName.git"
-commit = "8bd826c059b7a75969cb92481644054ab2200104"
+commit = "a212c0719c5a344e2086fcf63d7527d7f392474d"
 owners = [
     "LittleNightmare"
 ]
 project_path = "UsedName"
 changelog = """
-- 支持api8
-- 推送更新
+- 插件描述小提升
+- 修复更换卫月位置后，无法正常读取数据问题
 """
