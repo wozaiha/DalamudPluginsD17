@@ -1,6 +1,6 @@
 [plugin]
-repository = 'https://git.anna.lgbt/ascclemens/remote-party-finder.git'
-commit = 'f93b9c2b18406ba363e00d3c19cd871a3ec73cf7'
-owners = [ 'ascclemens' ]
+repository = 'https://github.com/LittleNightmare/remote-party-finder.git'
+commit = '0d1a538976ff19fe82d88be43f894ffb894167bc'
+owners = [ 'ascclemens', 'LittleNightmare' ]
 project_path = 'csharp/RemotePartyFinder'
-changelog = 'API 8'
+changelog = '支持国服，但服务器性能和可访问不保证'
