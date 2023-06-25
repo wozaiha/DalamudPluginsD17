@@ -1,5 +1,4 @@
 [plugin]
 repository = "https://github.com/NiGuangOwO/BetterPartyFinder.git"
-commit = "3d6c619cc5e555cec974cffc83be500a0d5e8a01"
+commit = "c83f158998cd97b68a0dae2c930854ed4cbbb385"
 owners = [ "ascclemens","NiGuangOwO" ]
-changelog = "适配API8，添加汉化"
