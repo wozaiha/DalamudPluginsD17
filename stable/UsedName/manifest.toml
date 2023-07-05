@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/LittleNightmare/UsedName.git"
-commit = "a212c0719c5a344e2086fcf63d7527d7f392474d"
+commit = "7f1dca7734ff5652fb33525e9d90d0e654c9aa4d"
 owners = [
     "LittleNightmare"
 ]
 project_path = "UsedName"
 changelog = """
-- 插件描述小提升
-- 修复更换卫月位置后，无法正常读取数据问题
+- 将 玩家搜索 添加回来
+- 修复实际行为与描述不一致
 """
