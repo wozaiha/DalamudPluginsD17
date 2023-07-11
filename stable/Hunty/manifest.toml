@@ -1,12 +1,12 @@
 [plugin]
 repository = "https://github.com/LittleNightmare/Hunty.git"
-commit = "3b1f69b21dd0401e12a2d32e3fa7e2592ce104d3"
+commit = "c34ad05422bb245ebb30734d740036737c0ec2c9"
 owners = [
     "Infiziert90",
     "LittleNightmare"
 ]
 project_path = "Hunty"
 changelog = """
-- 添加部分汉化
-- 修复无法打开的问题
+- 修复极少数情况下无法传送的问题
+- 修复错误的怪物坐标
 """
