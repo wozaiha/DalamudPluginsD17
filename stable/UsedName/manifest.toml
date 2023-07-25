@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/LittleNightmare/UsedName.git"
-commit = "7f1dca7734ff5652fb33525e9d90d0e654c9aa4d"
+commit = "72a258637257e80e1defa52e50822d7935bbcb03"
 owners = [
     "LittleNightmare"
 ]
 project_path = "UsedName"
 changelog = """
-- 将 玩家搜索 添加回来
-- 修复实际行为与描述不一致
+- 修复有时UI崩溃的问题
+- 修复右键添加昵称失败
 """
