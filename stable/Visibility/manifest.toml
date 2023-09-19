@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://github.com/wozaiha/VisibilityPlugin.git"
-commit = "d0d12f7734832021958f43a0a2d2b8114ee28a6b"
-owners = ["SheepGoMeh","wozaiha"]
+repository = "https://github.com/SheepGoMeh/VisibilityPlugin.git"
+owners = [ "SheepGoMeh",]
 project_path = "Visibility"
-changelog = "国服6.3适配."
+commit = "0e53262f04966de78f49152e19324275748427ec"
+changelog = "- Fix Whitelist UI adding entries to VoidList"

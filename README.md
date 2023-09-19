@@ -16,7 +16,7 @@
 
 当插件检查组检查你的插件时，他们将检查以下内容。
 
-- 它是否符合由小组的多个成员商定的[我们的准则](https://ottercorp.github.io/faq/development#q-%E6%88%91%E5%8F%AF%E4%BB%A5%E5%9C%A8%E6%88%91%E7%9A%84%E6%8F%92%E4%BB%B6%E4%B8%AD%E5%81%9A%E4%BB%80%E4%B9%88)？
+- 它是否符合由小组的多个成员商定的[我们的准则](https://ottercorp.github.io/faq/development#q-%E6%88%91%E5%8F%AF%E4%BB%A5%E5%9C%A8%E6%88%91%E7%9A%84%E6%8F%92%E4%BB%B6%E4%B8%AD%E5%81%9A%E4%BB%80%E4%B9%88), as agreed upon by multiple members of the group？
 - 它是否具包含战斗相关功能？如果有，它们是否纯粹是信息性的，并且只显示玩家通常会知道的信息？
 - 它是否通过了非正式的代码审查？
 - 它是否安装得很干净？
@@ -35,6 +35,7 @@
 
 - 你的插件必须有一个`icon.png`，在`images/`中不大于512x512，不小于64x64。
 - 对于普通的ImGui窗口，如设置和实用窗口，你应该使用[Dalamud Windowing API](https://goatcorp.github.io/Dalamud/api/Dalamud.Interface.Windowing.html)。它增强了窗口的一些很好的功能，比如按顺序整合到本地UI。
+- Your plugin's version/assembly version **must not** be based on a timestamp or continually increasing build number. Every time your plugin is built with a specific commit, no matter the time or date, should produce the same version.
 
 ### 提交
 
@@ -64,6 +65,10 @@
 ## 在 PR 中重建
 
 如果你想触发你的 PR 的重建，只需发表一条内容为 `@aonyxbot rebuild` 的评论。
+
+## Secrets
+
+If your build process requires secrets, or you want to include a secret in your plugin, use [this page](https://goatcorp.github.io/plogon-secrets/) to encrypt the secret, to be included via your manifest. It will then be made available to your plugin's MSBuild/build script via environment variables, as per the instructions on the page.
 
 ---
 

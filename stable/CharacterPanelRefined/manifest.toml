@@ -1,12 +1,8 @@
 [plugin]
-repository = "https://github.com/zhouhuichen741/ffxiv-characterstatus-refined.git"
-commit = "945924b565ea3c4e3d04c66c9a0197ddeb2d3879"
-owners = [
-    "Kouzukii",
-    "zhouhuichen741",
-]
+repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
+commit = "1513e9afb6d01c2c0d61d16bf93859abca03e0a9"
+owners = ["Kouzukii"]
 project_path = "CharacterPanelRefined"
 changelog = """
-Fixed a bug that had items being shown as Ilvl synced when they shouldn't be.
-Fixed Shifu being assumed to be a 13% speed increase instead of 10% at level 70.
+Fixed average damage and healing values broken by patch 6.4
 """
