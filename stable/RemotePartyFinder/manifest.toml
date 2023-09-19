@@ -1,10 +1,6 @@
 [plugin]
-repository = 'https://github.com/LittleNightmare/remote-party-finder.git'
-commit = '40baaec3c1db919458db643fe0c8e0a734ea0328'
-owners = [ 'ascclemens', 'LittleNightmare' ]
+repository = 'https://git.anna.lgbt/anna/remote-party-finder.git'
+commit = '3ab9670da14f988ee49b45f46e96ae2469f25057'
+owners = [ 'lojewalo' ]
 project_path = 'csharp/RemotePartyFinder'
-changelog = """
-- 插件支持国服，但网站不保证可访问和稳定性
-- https://xivpf.littlenightmare.top/
-- 直接的中文的介绍
-"""
+changelog = 'API 8'

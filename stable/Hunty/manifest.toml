@@ -1,12 +1,10 @@
 [plugin]
-repository = "https://github.com/LittleNightmare/Hunty.git"
-commit = "c34ad05422bb245ebb30734d740036737c0ec2c9"
+repository = "https://github.com/Infiziert90/Hunty.git"
+commit = "c60242fb9a3de12a80d32533545372c8673550e0"
 owners = [
     "Infiziert90",
-    "LittleNightmare"
 ]
 project_path = "Hunty"
 changelog = """
-- 修复极少数情况下无法传送的问题
-- 修复错误的怪物坐标
+nofranz
 """

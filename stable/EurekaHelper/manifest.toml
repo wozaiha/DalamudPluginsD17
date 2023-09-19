@@ -1,15 +1,12 @@
 [plugin]
 repository = "https://github.com/snooooowy/EurekaHelper.git"
-commit = "08a5ce2968756707e28cbcf20ab12f5e48482c4a"
+commit = "dce6cd8fde87ef621294b262ed6d6e3b8ce514a1"
 owners = ["snooooowy"]
 project_path = "EurekaHelper"
 changelog = """
-Relic Helper
-- Now allows you to mark relic as complete
-
 Elemental Manager
-- Add crowdsourced known positions to plugin
+- Added crowdsourced positions
 
-Opt-in and assist to crowdsource all the Elemental positions
-Post new positions on GitHub pinned issue or through Discord DM
+Misc
+- Updated contact information
 """
