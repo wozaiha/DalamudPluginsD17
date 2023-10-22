@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/VFXEditor-CN.git"
-commit = "ab60ed0228944a81f6659c5ffc9019c2d568be02"
+commit = "795a7ae258798ea6414d83069f7d4768e8fac371"
 owners = [
     "0ceal0t", "AtmoOmen"
 ]
