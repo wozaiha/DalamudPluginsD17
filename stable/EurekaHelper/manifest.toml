@@ -1,7 +1,7 @@
 [plugin]
-repository = "https://github.com/snooooowy/EurekaHelper.git"
-commit = "dce6cd8fde87ef621294b262ed6d6e3b8ce514a1"
-owners = ["snooooowy"]
+repository = "https://github.com/AtmoOmen/EurekaHelper.git"
+commit = "8f2a2e4f0b2fa3b676cfcdf1adaf04756498ebc8"
+owners = ["snooooowy", "AtmoOmen"]
 project_path = "EurekaHelper"
 changelog = """
 Elemental Manager
