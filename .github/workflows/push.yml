@@ -85,6 +85,7 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         directory: output
         repository: ottercorp/PluginDistD17
+        branch: API9
         ssh: true
         
     # - name: Signal XLWeb commit
