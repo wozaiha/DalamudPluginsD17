@@ -1,8 +1,7 @@
 [plugin]
-repository = "https://github.com/cyf2023/RezPls.git"
-commit = "e28be42989b218973d6810bf12663b81dedd67f2"
+repository = "https://github.com/Ottermandias/RezPls.git"
+commit = "96876efc3bc963c23ea73a23051743d07137170b"
 owners = [
-    "Ottermandias", "cyf2023"
+    "Ottermandias",
 ]
 project_path = "RezPls"
-changelog = "汉化。"

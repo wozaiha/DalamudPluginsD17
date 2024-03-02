@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kurochi51/TickTracker.git"
-commit = "78d3ff8900265da7fbcb312380fb5073abb9e9bc"
+commit = "6840505dca2e0d29bcb76cbb5ce68eee95c65f0a"
 owners = ["Kurochi51"]
 project_path = "TickTracker"
 changelog = """
-- Fix edge case scenario where bars wouldn't update after a loading screen
+- Fix bug where nodes were created while option is disabled
 """

@@ -1,12 +1,12 @@
 [plugin]
-repository = "https://github.com/AtmoOmen/EurekaHelper.git"
-commit = "8f2a2e4f0b2fa3b676cfcdf1adaf04756498ebc8"
-owners = ["snooooowy", "AtmoOmen"]
+repository = "https://github.com/snorux/EurekaHelper.git"
+commit = "ec64acfb769b2f3bef8fa442b3fde2fb101a0f31"
+owners = ["snorux"]
 project_path = "EurekaHelper"
 changelog = """
 Elemental Manager
 - Added crowdsourced positions
 
 Misc
-- Updated contact information
+- Updated to API 9
 """

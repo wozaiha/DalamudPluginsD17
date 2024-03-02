@@ -1,11 +1,8 @@
 [plugin]
-repository = "https://github.com/AtmoOmen/deep-dungeon-tracker.git"
-commit = "671b81b0d8727a309400be45be358f3ff6708d44"
-owners = ["marconsou", "AtmoOmen"]
+repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
+commit = "ad72bb5f8b6e8db250f1c64de044f4b3a39da022"
+owners = ["marconsou"]
 project_path = "DeepDungeonTracker"
 changelog = """
-- Added [Score Window Kills] for HoH. Check General tab >>> Information section for more info.
-- The option [Improved Magicite Kills Detection] is enabled by default (always enabled for now).
-- The time for checking the [Time Bonus] was increased by 1 second. (from 30:01 to 30:02).
-- Small tweaks.
+- Added 3 to 8 room counts to the Statistics Window. (You can show or hide them individually on Configuration > Statistics tab)
 """
