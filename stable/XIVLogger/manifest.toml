@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/XIVLogger.git"
-commit = "4cea1e9a2dc4c71f5a83a90de0b4f59f35b943dc"
+commit = "95a94a8d2edd7fe1df09b03285f0998b9827e5bc"
 owners = [
   "cadaeix",
   "Infiziert90",
