@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/Infiziert90/BetterPlaytime.git"
+repository = "https://github.com/AtmoOmen/BetterPlaytime.git"
 commit = "db5ef2e5150b66af7c4e481e2ab32fe32d4b44e0"
 owners = [
     "Infiziert90",
