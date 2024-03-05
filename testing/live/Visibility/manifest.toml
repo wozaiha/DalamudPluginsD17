@@ -1,6 +1,0 @@
-[plugin]
-repository = "https://github.com/wozaiha/VisibilityPlugin.git"
-owners = [ "SheepGoMeh",]
-project_path = "Visibility"
-commit = "b72586e9268d20ac9447be37312e65ced70ab150"
-changelog = "6.5test"
