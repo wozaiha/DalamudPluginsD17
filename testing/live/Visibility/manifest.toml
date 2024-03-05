@@ -2,5 +2,5 @@
 repository = "https://github.com/wozaiha/VisibilityPlugin.git"
 owners = [ "SheepGoMeh",]
 project_path = "Visibility"
-commit = "997141ce1f6d8dd1574188009449f622012c32f8"
+commit = "b72586e9268d20ac9447be37312e65ced70ab150"
 changelog = "6.5test"
