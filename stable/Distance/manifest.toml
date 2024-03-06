@@ -1,24 +1,27 @@
 [plugin]
 repository = "https://github.com/MapleRecall/Distance.git"
-commit = "3269a5eb54a5577117eb41dce82b1e4583413076"
+commit = "c63f6abd4904fb82122ceab285a0d1325fc60f06"
 owners = [
     "PunishedPineapple",
     "MapleRecall"
 ]
 project_path = "Distance"
 changelog = '''
-- Added distance-based fading to text widgets and nameplate distances
-- Added offsets by object type to nameplate distances.
-- Minor config UI improvements.
+- 汉化
+- 修复国服开怪距离功能
 
-Also contains the following differences that were previously only in the testing branch:
-- Added a custom arcs feature to match custom widgets.
-- Rewrote config UI.
-- Added job filters to all distance displays.
-- Added a filter for in and out of instance.
-- Applied other filter types to displays that did not have them.
-- Improved nameplate node setup to more closely match the base game.
-- Fixed a bug that caused nameplate text nodes to not be properly cleaned up during plugin unload.
-- Improved logging.
-- Significant code cleanup and reorganization.
+- 添加了基于距离的文本小部件和名牌距离的淡入淡出效果
+- 添加了按对象类型偏移的名牌距离
+- 对配置界面进行了轻微的改进
+
+还包含以下之前仅在测试分支中的差异：
+- 添加了与自定义小部件匹配的自定义弧线功能
+- 重写了配置界面
+- 对所有距离显示添加了职业过滤器
+- 添加了一个用于实例内外的过滤器
+- 将其他过滤器类型应用于之前没有的显示
+- 改进了名牌节点设置，使其更接近基础游戏
+- 修复了在插件卸载时名牌文本节点未能正确清理的错误
+- 改进了日志记录
+- 进行了重大的代码清理和重组
 '''
