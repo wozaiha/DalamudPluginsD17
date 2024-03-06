@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/PunishedPineapple/Distance.git"
+repository = "https://github.com/MapleRecall/Distance.git"
 commit = "80fd07e00b4c44352474f67c8accc908aea9a0e3"
 owners = [
     "PunishedPineapple",
