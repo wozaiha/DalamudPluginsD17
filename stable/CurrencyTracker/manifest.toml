@@ -1,8 +1,15 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "f9d9d20892debc1e2857787e4e3816ebd2817ed7"
+commit = "149282f59e7a7038867e0be8f4d63648e79ffdae"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
 changelog = """
-- Fixed a file save failure error that occurred when a specific item name contained characters that could not be used as a file name.
+- Code cleanup.
+- Refactored the Add Custom Currency and Multi-Chara Stats interface.
+- Refactored the LanguageManager.
+- Optimized the interface appearance of the currency list: You can now adjust the order of currencies in the list by dragging and dropping them; Deleted the original arrow buttons, and the remaining three buttons are now aequilate ones; Adjusted the indentation of the options to make them look more natural
+- Fixed an issue where a single handler uninstallation error would prevent the entire plugin from being normally disabled.
+- Fixed an issue that the automatic backup time was displayed incorrectly when the AutoBackup module was disabled and then enabled again.
+- Optimized the Main window open speed.
+- Added a new feature: Display Currency Changes in Server Bar, which allows you to show specific currency changes in the DTR bar.
 """
