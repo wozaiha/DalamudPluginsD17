@@ -1,5 +1,5 @@
 [plugin]
-repository = 'https://github.com/NiGuangOwO/BetterPartyFinder'
+repository = 'https://github.com/NiGuangOwO/BetterPartyFinder.git'
 commit = '8d84b24b278ed526e1642dbcece18ec7b545a9a2'
 owners = [ 'lojewalo' , 'NiGuangOwO']
 changelog = 'API 9 + .NET 8'
