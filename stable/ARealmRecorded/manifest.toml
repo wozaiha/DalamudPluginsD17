@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/wozaiha/ARealmRecorded.git"
-commit = "87d79161c822857c756f2fc15ccbf4f7308f3bee"
+commit = "79d3e4a44dc0b3e717f9ae7b4e7ef4ca12465250"
 owners = [ "UnknownX7" ]
 changelog = '''
 防炸'''
