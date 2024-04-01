@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/TPie.git"
-commit = "f0944ff7bb902701fad41873ce6e3d5aa2115bd7"
-owners = ["Tischel"]
+commit = "894d7cca9c86509346167f35a48f551ee5613f3a"
+owners = ["Tischel", "MeowZWR"]
 project_path = "TPie"
-changelog = "- Fixed various issues related to Gear Set elements."
+changelog = "- 1.8.1.0汉化。"
