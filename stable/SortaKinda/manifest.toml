@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/MidoriKami/SortaKinda.git"
-commit = "e474eb33a5899a6003e44c8097122b68e584aca9"
-owners = ["MidoriKami"]
+repository = "https://github.com/AtmoOmen/SortaKinda.git"
+commit = "885c736009309417f6305373ed578c005bfeef5f"
+owners = ["MidoriKami", "AtmoOmen"]
 project_path = "SortaKinda"
