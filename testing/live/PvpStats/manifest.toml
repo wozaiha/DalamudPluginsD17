@@ -1,7 +1,7 @@
 [plugin]
-repository = "https://github.com/wrath16/PvpStats.git"
-commit = "770aa26435f59d88fac827200c10feb784faa83e"
-owners = ["wrath16"]
+repository = "https://github.com/AtmoOmen/PvpStats.git"
+commit = "c112c51446ec3664f166f12c1acdef7b781b2000"
+owners = ["wrath16", "AtmoOmen"]
 project_path = "PvpStats"
 changelog = """
 - Fixes game crash on occluded window.
