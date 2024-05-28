@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/MeowZWR/TPie.git"
-commit = "894d7cca9c86509346167f35a48f551ee5613f3a"
+commit = "3f8dad2be31a79209f96e2990300f3a53230596a"
 owners = ["Tischel", "MeowZWR"]
 project_path = "TPie"
-changelog = "- 1.8.1.0汉化"
+changelog = "- 1.8.2.0汉化"
