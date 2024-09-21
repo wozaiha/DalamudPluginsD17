@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "02c3280f604be09b5f713d9bad51628b5d68e1ff"
+commit = "8a60d0363d1ea53bc6958b32d2eec4e704297a67"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-- Added price checking using Universalis.
-- UI improvements.
+* Tracker window rework: You can now drag and drop maps to re-assign them.
+* Fix loot not registering on map chests.
+* Adjusted timing setpoints to improve reliability.
 """

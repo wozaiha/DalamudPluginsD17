@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/zw3lf/ffxiv-coord-importer.git"
-commit = "ba8f3bbd60f37746a7b4eb01a332b4779b80c1f0"
+commit = "e7038a106d128f68084225f20d71689e563062e6"
 owners = ["zw3lf", "dit-zy"]
 project_path = "CoordImporter"
-changelog = "Bug fix: Prevent name collisions causing the wrong mobs to be imported to hunt helper"
+changelog = "Add support for Turtle Scouter coordinates"
