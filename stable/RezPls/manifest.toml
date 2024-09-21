@@ -1,7 +1,7 @@
 [plugin]
-repository = "https://github.com/cyf5119/RezPls.git"
-commit = "c0049d9cc6e9fa64cb549d757735c55c2d681d5a"
+repository = "https://github.com/Ottermandias/RezPls.git"
+commit = "9633c8f39d5f4eaa6080ea932795ee94f2c42f22"
 owners = [
-    "Ottermandias", "cyf5119"
+    "Ottermandias",
 ]
 project_path = "RezPls"

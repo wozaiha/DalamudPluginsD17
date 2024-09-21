@@ -1,10 +1,9 @@
 [plugin]
-repository = "https://github.com/zhouhuichen741/ffxiv-characterstatus-refined.git"
-commit = "550822107fc77a6437c144a850f5d10177d2dda8"
-owners = ["Kouzukii",
-          "zhouhuichen741"
-]
+repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
+commit = "270fca12a588f18c6bc9f1c6a34480a7ec56090a"
+owners = ["Kouzukii"]
 project_path = "CharacterPanelRefined"
 changelog = """
-Fix ilvl sync being incorrectly displayed in bozja and eureka.
+- Tenacity is now split between provided damage increase and mitigation
+- Updated some 7.0 math
 """

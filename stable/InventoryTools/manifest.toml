@@ -1,12 +1,15 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "6de67158f3e8a439ff9f074ef9da8cead1eb9429"
+commit = "8b52fd6eec34bfae78388caea84b2170da838bee"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.6.2.5"
+version = "1.7.0.20"
 changelog = """\
-**Fixes**
-- Skybuilder resource inspection needed quantity was not calculating correctly
+### Fixed
+
+- Expand the inventory scanner to cover missing currency types
+- Fix alignment issue with lists
+
 """

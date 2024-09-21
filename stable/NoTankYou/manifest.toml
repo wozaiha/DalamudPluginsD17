@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/NiGuangOwO/NoTankYou.git"
-commit = "973987b7e2a7580f873eb48ee8b77574b164d71c"
-owners = ["MidoriKami", "NiGuangOwO"]
+repository = "https://github.com/MidoriKami/NoTankYou.git"
+commit = "0636d319b80510283e5009a3715f4bcdb27f7194"
+owners = ["MidoriKami"]
 project_path = "NoTankYou"

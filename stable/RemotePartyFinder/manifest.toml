@@ -1,6 +1,6 @@
 [plugin]
-repository = 'https://github.com/LittleNightmare/remote-party-finder.git'
-commit = 'ae1d2a3a82dfe61d3d255e441f392a8f6d2e4f74'
-owners = [ 'lojewalo', 'LittleNightmare' ]
+repository = 'https://github.com/zeroeightysix/remote-party-finder.git'
+commit = 'fb6027caa06089cd321a0d74bbdcbaf2f45633de'
+owners = [ 'zeroeightysix' ]
 project_path = 'csharp/RemotePartyFinder'
-changelog = 'API 9'
+changelog = 'Update for Dawntrail'

@@ -1,12 +1,11 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/FantasyPlayer.git"
-commit = "42a009dff5db8f3fd4c2eca59eb2fc9205e352aa"
+commit = "47195e747fb969af994766dc24f24becb06f98b2"
 owners = [
     "Critical-Impact",
 ]
 project_path = "FantasyPlayer"
-version = "2.2.0.1"
+version = "2.2.0.4"
 changelog = """\
-**Bug Fixes**
-- Fix slash commands
+- Stop settings window from opening every boot
 """

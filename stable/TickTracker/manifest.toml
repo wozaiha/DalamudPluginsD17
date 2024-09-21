@@ -1,8 +1,7 @@
 [plugin]
 repository = "https://github.com/Kurochi51/TickTracker.git"
-commit = "6d7038fe1b3328e95da0c2b3eb4acbebcce21342"
+commit = "3a5db58df830d9606bc0ad2929005663a25bf5be"
 owners = ["Kurochi51"]
 project_path = "TickTracker"
 changelog = """
-- Stop bar windows from stealing focus.
 """

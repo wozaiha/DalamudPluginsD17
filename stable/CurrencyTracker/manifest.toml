@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "4d58f82ff54b628bb16d829ae556ae9323316bcc"
+commit = "a6ee7bcb3029c3f57a5bc1858b7f571ebf7199d2"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
 changelog = """
-- Updated localization files for German and Spanish
+Fixed the issue that ServerBar sometimes does not display properly
 """
