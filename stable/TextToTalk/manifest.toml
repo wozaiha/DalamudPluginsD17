@@ -1,8 +1,11 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "b05d443c46f3cae64347b887fe0b50857a28b017"
-project_path = "src"
+commit = "6fdefac17cc2d786caa9afd2c43be57fb4d80386"
+project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **WebSocket**: Adds `PayloadTemplate` to the message payload (check the README for more details)
+- **OpenAI**: Fixed API key not being saved (thanks PassiveModding!)
+- **OpenAI**: Improved error visibility in the login flow and during TTS
+- **ElevenLabs**: Fixed multiple UI errors
+- **System**: Added a link to [NaturalVoiceSAPIAdapter](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter) next to VoiceUnlocker
 """

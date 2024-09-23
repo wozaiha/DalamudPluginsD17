@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/grittyfrog/MacroMate.git"
-commit = "eee7b2184f2c7d9ea84c00b156c11c983b118b3b"
+commit = "9851429b96e0c64c1dded3279565893b902d91f6"
 owners = ["grittyfrog"]
 project_path = "MacroMate"
-version = "1.0.11.0"
+version = "1.0.19.3"
 changelog = """
-- Added 'Sort' feature
-- Linked macro names can now be up to 20 characters long (previously limit was 14)
+- Added a 'Insert Special Character' context menu action to the macro window
 """

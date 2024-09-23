@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://github.com/MeowZWR/TPie.git"
-commit = "ca9a666404afc00a330c03a98d231ac381859d8c"
+repository = "https://github.com/Tischel/TPie.git"
+commit = "7c4e96c75e9b78d7920419c6ff1453bb171de558"
 owners = ["Tischel", "MeowZWR"]
 project_path = "TPie"
-changelog = "- 1.8.2.0汉化"
+changelog = "- Added setting to Nested Ring Elements so they can be activated by clicking instead of hovering."

@@ -1,7 +1,0 @@
-[plugin]
-repository = "https://github.com/Loskh/PingPlugin.git"
-commit = "1242c2132ca87156c62b4f30247d35d704e713dd"
-owners = ["karashiiro"]
-changelog = """\
-- Updates for API 9
-"""

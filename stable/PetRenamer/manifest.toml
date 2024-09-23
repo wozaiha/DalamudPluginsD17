@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "117f6b698fc510898d2e5db3e95b73fe4808317b"
+commit = "9fb2cde217a6ff3900010b4c7c928c6f31a96cf3"
 owners = ["Glyceri"]
 	changelog = """
-    [1.4.8.8]
-    PetRenamer.GameObjectRenameDict is now available for other plogons to use!
+    [2.2.0.4]
+    Empty data will get send over IPC a lot less. (This shouldn't happen actually, I just haven't found the underlying issue yet.)
+    Made the rename window's minimum width slightly smaller so people won't hamstring themselves into not seeing the input field.
+    Added a couple tags so people will find the plugin via very specific search querries easier.
 """

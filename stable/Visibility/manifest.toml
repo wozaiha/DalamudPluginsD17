@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://github.com/wozaiha/VisibilityPlugin.git"
+repository = "https://github.com/SheepGoMeh/VisibilityPlugin.git"
 owners = [ "SheepGoMeh",]
 project_path = "Visibility"
-commit = "0444938f474b3c6f67103ff81c946a4a29cf7e02"
-changelog = "请尽量使用UI添加角色，如实在需要使用命令行添加黑白名单，请在角色名前额外敲个空格"
+commit = "89463920b330863b02127df892109695e584aa94"
+changelog = "- Added a feature to show target of target when hidden by other settings"

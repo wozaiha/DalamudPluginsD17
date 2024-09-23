@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "502715016673e3358e3e1dcccb0635dc7de5b5d8"
+commit = "915f4597a5baea93d07431c287d6ab29f3be92ee"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-- Rewrote caching logic to better avoid unnecessary requests to universalis
-- Improved tooltip display when "Always display NQ and HQ" is turned off
+- Enable new Universalis API for everyone
+- Fetch item prices whenever player or retainer inventory is opened
 """

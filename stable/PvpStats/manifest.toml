@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "c3abdb22823584ebba61bfd4e66f2b8951186753"
+commit = "9ff6bb3ee3528bb3882c1a2ebad95c9569910cc5"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Added match caching for increased performance.
-* Added Frontline support.
+* Adds a progress bar to tracker windows during refreshes.
 """

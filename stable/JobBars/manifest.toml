@@ -1,7 +1,7 @@
 [plugin]
-repository = "https://github.com/cyf5119/JobBars.git"
-commit = "cbe3bb2273865310016004149fa74917ba0cc98b"
+repository = "https://github.com/0ceal0t/JobBars.git"
+commit = "15201bc0b9da37a00285ac1efec9ddadec45a21c"
 owners = [
-    "0ceal0t", "cyf5119"
+    "0ceal0t",
 ]
 project_path = "JobBars"
