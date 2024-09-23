@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/wozaiha/ARealmRecorded.git"
-commit = "411cc40d62f02e2edea634d6c576f2aac6238628"
+commit = "572f70d4b8f5595f65f78a88191479c69c7bd594"
 owners = [ "UnknownX7" ]
 changelog = '''
 - Fixed for Dawntrail
