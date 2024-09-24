@@ -1,7 +1,8 @@
 [plugin]
-repository = "https://github.com/goaaats/Dalamud.LoadingImage.git"
-commit = "fd25d8c5cbd7c48b88dfba80916bcfe761629f36"
+repository = "https://github.com/MapleHinata/Dalamud.LoadingImage.git"
+commit = "5c17409d548b7ae4f6c2f7d50344564fe9f8c5af"
 owners = [
     "goaaats",
-]
+    "MapleHinata"
+    ]
 project_path = "Dalamud.LoadingImage"
