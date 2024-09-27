@@ -3,7 +3,7 @@ repository = "https://github.com/zhouhuichen741/ffxiv-characterstatus-refined.gi
 commit = "b62067831361c89427fdecfd60b689fc0c9a307a"
 owners = [
           "Kouzukii",
-          "zhouhuichen41"
+          "zhouhuichen741"
          ]
 project_path = "CharacterPanelRefined"
 changelog = """
