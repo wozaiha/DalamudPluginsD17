@@ -6,7 +6,7 @@ owners = [
     "decorwdyun"
 ]
 project_path = "InventoryTools"
-version = "1.7.0.20"
+version = "1.7.0.21"
 changelog = """\
 ### Fixed
 
