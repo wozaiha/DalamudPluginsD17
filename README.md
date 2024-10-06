@@ -67,7 +67,7 @@
 
 ## Secrets
 
-If your build process requires secrets, or you want to include a secret in your plugin, use [this page](https://goatcorp.github.io/plogon-secrets/) to encrypt the secret, to be included via your manifest. It will then be made available to your plugin's MSBuild/build script via environment variables, as per the instructions on the page.
+If your build process requires secrets, or you want to include a secret in your plugin, use [this page](https://ottercorp.github.io/plogon-secrets/) to encrypt the secret, to be included via your manifest. It will then be made available to your plugin's MSBuild/build script via environment variables, as per the instructions on the page.
 
 ---
 

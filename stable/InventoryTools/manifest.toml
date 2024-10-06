@@ -1,15 +1,15 @@
 [plugin]
-repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "8b52fd6eec34bfae78388caea84b2170da838bee"
+repository = "https://github.com/decorwdyun/InventoryTools.git"
+commit = "1c1ba3d5e83df643ece5687e8cc7fece2533b634"
 owners = [
     "Critical-Impact",
+    "decorwdyun"
 ]
 project_path = "InventoryTools"
-version = "1.7.0.20"
+version = "1.7.0.21"
 changelog = """\
 ### Fixed
 
-- Expand the inventory scanner to cover missing currency types
-- Fix alignment issue with lists
+- 国服适配
 
 """
