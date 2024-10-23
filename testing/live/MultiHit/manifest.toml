@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Bluefissure/MultiHit.git"
-commit = "e81481bb1abc83db73547008761b949897e80b73"
+commit = "e6a232042cb6f857d2e6db71fb6cc1eb299714dd"
 owners = ["Bluefissure"]
 project_path = "MultiHit"
 changelog = """
-- readying for testing live
+- try to fix crashing
+- support namingway
 """
