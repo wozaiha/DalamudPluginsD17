@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://github.com/wozaiha/ChatBubbles.git"
-commit = "2fe66feba8ab175d6efdbbe041113e2b41b4927c"
+repository = "https://github.com/Haplo064/ChatBubbles.git"
+commit = "3b5eff79e6689e7d2745b76b327d9e08e46546c4"
 owners = ["Haplo064", "MKhayle"]
 project_path = "ChatBubbles"
 changelog = """### 2.1.7.2
