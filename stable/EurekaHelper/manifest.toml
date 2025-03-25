@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Loskh/EurekaHelper.git"
+commit = "7e460d96055bbd542169bac76d71932a00db379f"
+owners = ["snorux", "KangasZ"]
+project_path = "EurekaHelper"
+changelog = """
+- Allows switching to use chat sound effects
+"""
