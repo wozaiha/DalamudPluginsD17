@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/wozaiha/umbra.git"
-commit = "4c2ca8537bf085c0c79e421c1bf8771ba4202843"
+commit = "8eebfc98c9da1ed5057def05b1ba25cc0d4452d1"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
@@ -8,9 +8,7 @@ changelog = """
 
 ## Fixes & Improvements
 
-- Add Island Sanctuary ferry to Zone Markers (By [Bloodsoul](https://github.com/Bloodsoul)).
-- Fix gearset switcher max level color for newly added sets (By [Bloodsoul](https://github.com/Bloodsoul)).
-
+- 修复老主顾（可想而知7.15还得炸）
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
 """
