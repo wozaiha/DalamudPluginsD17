@@ -1,8 +1,8 @@
 [plugin]
-repository = "https://github.com/Loskh/EurekaHelper.git"
-commit = "7e460d96055bbd542169bac76d71932a00db379f"
+repository = "https://github.com/KangasZ/EurekaHelper.git"
+commit = "b1f665d4c1bc43208ad1d7f884408aadd75d554e"
 owners = ["snorux", "KangasZ"]
 project_path = "EurekaHelper"
 changelog = """
-- Allows switching to use chat sound effects
+- Fix /etrackers crashing game
 """

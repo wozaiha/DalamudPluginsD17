@@ -1,12 +1,7 @@
 [plugin]
-repository = "https://github.com/decorwdyun/Accountant.git"
-commit = "564f23be6f1fae2ead2908af85dbd5e2e0c28bc8"
+repository = "https://github.com/Ottermandias/Accountant.git"
+commit = "5646855e060e5cdd43a239a334290144f51151ab"
 owners = [
     "Ottermandias",
-    "decorwdyun",
 ]
 project_path = "Accountant"
-changelog = """\
-### Fixed
-- 补充遗漏的苗圃信息计时器
-"""

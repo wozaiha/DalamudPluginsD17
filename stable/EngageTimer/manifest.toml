@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/xorus/EngageTimer.git"
-commit = "1b76fb8a3403de88282b496897651def6e49e843"
+commit = "e1e4e2f6153e34dba0cccec23cd048ff1fb84814"
 owners = ["xorus"]
 changelog = """\
-- Fix imgui asserts
+- Update for API12
 """
