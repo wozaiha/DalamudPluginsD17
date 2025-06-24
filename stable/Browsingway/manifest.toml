@@ -1,7 +1,7 @@
 [plugin]
-repository = "https://github.com/Styr1x/Browsingway.git"
-commit = "a8564d17c1c9d8d726cef409abd8db7cf88dccb2"
-owners = ["Styr1x"]
+repository = "https://github.com/MeowZWR/Browsingway.git"
+commit = "b3fb70e3947126b1c65e83c4b290b15f2ac48cec"
+owners = ["Styr1x", "MeowZWR"]
 project_path = "Browsingway"
 changelog = """\
 - Bump Chromium to 134.0.6998.178
