@@ -3,7 +3,6 @@ repository = "https://github.com/MeowZWR/ChatTwo.git"
 commit = "d34a5e2d1ac8e2dec0bdc95912ea2f29386e65f5"
 owners = [
     "Infiziert90",
-    "lojewalo",
-    "MeowZWR"
+    "lojewalo"
 ]
 project_path = "ChatTwo"

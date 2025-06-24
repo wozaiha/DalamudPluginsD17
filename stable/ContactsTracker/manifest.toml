@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/DueDine/ContactsTracker.git"
-commit = "ad38a9e9f118b78d3abaa05dbae555abd332ec06"
+commit = "d7b3e3eb8940ed8ebf55368d552af37c2887f514"
 owners = ["DueDine"]
 project_path = "ContactsTracker"
 changelog = """
-[1.0.1.0]
-- Add query: frequency of dungeon in each roulette
-- Add button to open analyze window directly
+[1.0.4.0]
+- Support to record duty settings (Minimal IL, Unsynced ...)
 """

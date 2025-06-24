@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "6c6f6a22716c4f21bacc21ddbc38e92e153d88c0"
+commit = "d5bd0c355b7679a3fbb69e5b9abbe32460babe36"
 owners = ["Glyceri"]
 	changelog = """
-    [2.3.0.9]
-    Fixes profile pictures not downloading for people with ' and - in their name.
+[2.4.0.5] 
+- Disabled the IPC watcher temporarily was it was causing many bugs.
 """

@@ -4,7 +4,6 @@ commit = "b3fb70e3947126b1c65e83c4b290b15f2ac48cec"
 owners = ["Styr1x", "MeowZWR"]
 project_path = "Browsingway"
 changelog = """\
-- 找runtime
-- 汉化
-- 鼠标悬停显示
+- Bump Chromium to 134.0.6998.178
+- (this fixes CVE-2025-2783)
 """

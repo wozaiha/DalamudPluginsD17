@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/Drahsid/BetterShadows.git"
+commit = "193e4a9c057848f9cc9086c328ffee2ff77206d3"
+owners = ["Drahsid"]
+project_path = "BetterShadows"
+changelog = """
+- Updated for 7.2 and API12
+"""
+
