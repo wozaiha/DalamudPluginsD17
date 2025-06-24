@@ -1,10 +1,9 @@
 [plugin]
-repository = "https://github.com/MeowZWR/Browsingway.git"
-commit = "c2c78a5eb7a5b1dce9120305b569b8fb5daa5ce1"
-owners = ["Styr1x", "MeowZWR"]
+repository = "https://github.com/Styr1x/Browsingway.git"
+commit = "a8564d17c1c9d8d726cef409abd8db7cf88dccb2"
+owners = ["Styr1x"]
 project_path = "Browsingway"
 changelog = """\
-- 找runtime
-- 汉化
-- 鼠标悬停显示
+- Bump Chromium to 134.0.6998.178
+- (this fixes CVE-2025-2783)
 """

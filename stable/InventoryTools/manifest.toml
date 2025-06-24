@@ -1,9 +1,14 @@
 [plugin]
-repository = "https://github.com/decorwdyun/InventoryTools.git"
-commit = "6eb5380a5f953f07a615a4adedc5414f11ba2766"
+repository = "https://github.com/Critical-Impact/InventoryTools.git"
+commit = "84bf54b42880b07003423d629d9959e8825e4dec"
 owners = [
     "Critical-Impact",
     "decorwdyun"
 ]
 project_path = "InventoryTools"
-version = "1.11.1.4"
+version = "1.12.0.20"
+changelog = """\
+### Added
+- Added a new tree view mode for craft lists for quick configuration and visualization of each output item.
+
+"""

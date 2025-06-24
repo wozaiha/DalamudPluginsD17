@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "65056e32668f3bb457374dcf3624abf2b3cca3f1"
+commit = "1fba1c9a5b057b10a253aa1feffd998b54084872"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **General**: Fixes TTS playing over voice-acted dialogue
+- **Uberduck**: Fixed backend support after minor API changes
 """
