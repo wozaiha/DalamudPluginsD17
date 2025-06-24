@@ -1,12 +1,11 @@
 [plugin]
-repository = "https://github.com/ottercorp/Distance.git"
-commit = "a6b31e6babd6d36f413ad0660fcc8f75c7868684"
+repository = "https://github.com/PunishedPineapple/Distance.git"
+commit = "49c0897bb6a2e2495b61368330e537ab7a030bbe"
 owners = [
     "PunishedPineapple",
     "MapleRecall"
 ]
 project_path = "Distance"
 changelog = '''
-- Updated for Dalamud API 11.  Thank you damolitionn.
-- Minor code cleanup.
+- Updated for Dalamud API 12.
 '''

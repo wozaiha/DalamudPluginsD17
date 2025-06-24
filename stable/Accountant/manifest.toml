@@ -1,12 +1,8 @@
 [plugin]
 repository = "https://github.com/decorwdyun/Accountant.git"
-commit = "ebfa6741180d3c33bce39fc0f2068fd596855ea5"
+commit = "0ba668c0020e94e3c8247e6abe6e8582168e99ee"
 owners = [
     "Ottermandias",
-    "decorwdyun",
+    "decorwdyun"
 ]
 project_path = "Accountant"
-changelog = """\
-### Fixed
-- 国服支持 & 部分汉化 & bug修复
-"""

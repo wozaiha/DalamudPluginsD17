@@ -1,7 +1,0 @@
-[plugin]
-repository = "https://github.com/Aireil/FlyTextFilter.git"
-commit = "0ac607d086713f0f5c8b59c832a1cceb03d3c4f2"
-owners = [
-    "Aireil",
-]
-project_path = "FlyTextFilter"
