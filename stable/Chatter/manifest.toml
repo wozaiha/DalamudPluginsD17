@@ -1,13 +1,6 @@
 [plugin]
 repository = "https://github.com/jlkeesey/Chatter.git"
-<<<<<<<< HEAD:stable/Chatter/manifest.toml
-commit = "8d3b7e441451027f84bfef31870e7c523d836a36"
+commit = "33e78afc29ad4a40a4c6829520cd0c4f99bbda17"
 owners = ["jlkeesey"]
 project_path = "Chatter"
-changelog = "Upgrade to 7.1"
-========
-commit = "008e17563fbeb6825bbcb04bc9a4936b0dd55e4d"
-owners = ["jlkeesey"]
-project_path = "Chatter"
-changelog = "Fixed bug with user not logging."
->>>>>>>> goat/main:testing/live/Chatter/manifest.toml
+changelog = "Upgrade to 7.25"
