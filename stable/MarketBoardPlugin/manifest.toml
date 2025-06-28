@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/ottercorp/MarketBoardPlugin.git"
-commit = "edda3d0815aebac703515e07744f8f90a3c3cdfe"
+commit = "504b8960900c65ca4647c56781af29c79a045d2e"
 owners = ["fmauNeko", "Yarukon"]
 project_path = "MarketBoardPlugin"
 changelog = """\
