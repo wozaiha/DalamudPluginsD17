@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/ottercorp/MarketBoardPlugin.git"
-commit = "504b8960900c65ca4647c56781af29c79a045d2e"
+commit = "c26f7ef89501ab679d0c4be4d1cd34ebadf40b66"
 owners = ["fmauNeko", "Yarukon"]
 project_path = "MarketBoardPlugin"
 changelog = """\
-- 增加针对国服的跨数据中心支持\
+- 增加针对国服的跨数据中心和服务器支持\
 - 汉化\
 """
