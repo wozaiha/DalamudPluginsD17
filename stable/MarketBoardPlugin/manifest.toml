@@ -1,8 +1,9 @@
 [plugin]
-repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "a2c72e4ea99d70b0adad9601a707f02789052a0d"
-owners = ["fmauNeko"]
+repository = "https://github.com/ottercorp/MarketBoardPlugin.git"
+commit = "c26f7ef89501ab679d0c4be4d1cd34ebadf40b66"
+owners = ["fmauNeko", "Yarukon"]
 project_path = "MarketBoardPlugin"
 changelog = """\
-- Fix context menu for HQ items\
+- 增加针对国服的跨数据中心和服务器支持\
+- 汉化\
 """
